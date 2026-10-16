@@ -1,0 +1,6 @@
+{
+  "name": "UddoktaPay Paymenter Gateway Studio",
+  "description": "Interactive admin panel simulator, client checkout playground, and source code viewer for the UddoktaPay Paymenter payment gateway extension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
