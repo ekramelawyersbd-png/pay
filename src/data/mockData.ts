@@ -63,6 +63,19 @@ export const initialInvoices: Invoice[] = [
     customerName: 'Farhan Kabir',
     customerEmail: 'farhan@devops.bd',
     serviceType: 'Kubernetes',
+  },
+  {
+    id: 'inv_105',
+    invoiceNumber: 'INV-2026-1055',
+    title: 'Income Tax Return Workbook 2026 (Digital E-Book & Guide)',
+    amount: 1250.00,
+    currency: 'BDT',
+    status: 'pending',
+    dueDate: '2026-10-30',
+    createdAt: '2026-10-15',
+    customerName: 'Ekram Hossain',
+    customerEmail: 'ekram.elawyersbd@gmail.com',
+    serviceType: 'Digital E-Book',
   }
 ];
 
